@@ -1,9 +1,9 @@
 # PYTHON_GAME
 
-install python3
-import random
-Copy the whole code
-make a examp_el.py file
+install python3 ##
+import random ##
+Copy the whole code ##
+make a examp_el.py file ##
 run in terminal
 ##
 python3 examp_el.py 
